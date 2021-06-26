@@ -5,3 +5,4 @@ tomates
 frutillas
 Prueba carga desde otra pc
 termo mate
+nuevo items desde notebook
